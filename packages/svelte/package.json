@@ -1,5 +1,5 @@
 {
-  "name": "i18nine",
+  "name": "@i18nine/svelte",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
