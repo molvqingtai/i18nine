@@ -2,12 +2,16 @@
   "name": "i18nine",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "molvqingtai",
   "license": "MIT",
-  "packageManager": "pnpm@10.5.2"
+  "packageManager": "pnpm@10.5.2",
+  "devDependencies": {
+    "tsdown": "^0.13.1",
+    "typescript": "^5.9.2"
+  }
 }
